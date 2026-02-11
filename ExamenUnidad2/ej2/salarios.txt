@@ -1,0 +1,11 @@
+María;Gómez;2500;Recursos Humanos
+Carlos;Ruiz;3000;Desarrollo
+Laura;Fernández;2700;Finanzas
+Alejandro;Pérez;3500;Desarrollo
+Isabel;Martínez;4000;Finanzas
+Juan;Sánchez;2400;Recursos Humanos
+Luis;Rodríguez;2800;Recursos Humanos
+Ana;López;3200;Desarrollo
+Javier;García;2900;Finanzas
+Elena;Díaz;3800;Desarrollo
+Sergio;Fernández;4200;Finanzas
